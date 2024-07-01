@@ -20,5 +20,5 @@ This repository contains a Python script (`moviedash.py`) designed to fetch data
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/DigitalFutures_Capstone_database.git
+git clone https://github.com/your-username/DigitalFutures_capstone_database.git
 cd DigitalFutures_Capstone_database
